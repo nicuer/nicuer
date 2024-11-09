@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicuer
-- 👀 I’m interested in the application of spatial technologies to forest, fire and land management
+- 👀
 - 🌱 I’m currently learning python (ongoing!)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
